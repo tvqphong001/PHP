@@ -30,6 +30,7 @@
 	foreach( $web as $lang ) {
 	    echo "$lang <br>";
 }
+	echo $web;
 
 ?>
 
